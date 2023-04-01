@@ -1,7 +1,8 @@
 <h1>Horiseon Digital Marketing Solutions<h1>
-    <p>
-        This is the README file for the Horiseon Digital Marketing Solutions website.
-    </p>
+
+<p>
+    This is the README file for the Horiseon Digital Marketing Solutions website.
+</p>
 
 <h2>Table of Contents</h2>
     <ul>
