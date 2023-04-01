@@ -1,8 +1,8 @@
-Horiseon Digital Marketing Solutions
+<h1>Horiseon Digital Marketing Solutions<h1>
 
 This is the README file for the Horiseon Digital Marketing Solutions website.
 
-<h1>Table of Contents</h1>
+<h2>Table of Contents</h2>
     <ul>
         <li>
             Description
@@ -21,12 +21,12 @@ This is the README file for the Horiseon Digital Marketing Solutions website.
         </li>
     </ul>
 
-<h1>Description</h1>
+<h2>Description</h2>
     <p>
         The Horiseon Digital Marketing Solutions website provides information about the digital marketing services offered by the company, including search engine optimization, online reputation management, and social media marketing. The website also highlights the benefits of these services, such as lead generation, brand awareness, and cost management.
     </p>
 
-<h1>Installation</h1>
+<h2>Installation</h2>
     <p>To install this website on your local machine, follow these steps:
         <ol>
             <li>
@@ -35,19 +35,20 @@ This is the README file for the Horiseon Digital Marketing Solutions website.
             <li>
                 Open the index.html file in your web browser.
             </li>
+        </ol>
     </p>
 
-<h1>Usage</h1>
+<h2>Usage</h2>
     <p>
         You can use this website to learn more about the digital marketing services offered by Horiseon, and to discover the benefits of these services.
     </p>
 
-<h1>Credits</h1>
+<h2>Credits</h2>
     <p>
         This website was created by Horiseon Social Solution Services, Inc. The HTML and CSS code was written by The University of Miami Bootcamp.
     </p>
 
-<h1>License</h1>
+<h2>License</h2>
     <p>
         This webiste is licensed under the MIT License.
     </p>
