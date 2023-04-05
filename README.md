@@ -28,6 +28,9 @@
         The Horiseon Digital Marketing Solutions website provides information about the digital marketing services offered by the company, including search engine optimization, online reputation management, and social media marketing. The website also highlights the benefits of these services, such as lead generation, brand awareness, and cost management.
     </p>
 
+<h2>Visuals</h2>
+
+
 <h2>Installation</h2>
     <p>To install this website on your local machine, follow these steps:
         <ol>
