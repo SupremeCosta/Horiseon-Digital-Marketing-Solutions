@@ -32,7 +32,9 @@
     </p>
 
 <h2>Visuals</h2>
-    ![Horiseon Website Nav & Banner](https://github.com/SupremeCosta/Horiseon-Digital-Marketing-Solutions/blob/main/Horiseon%20Screenshot%20-%201.png)
+    ![Horiseon Website Screenshot](https://github.com/SupremeCosta/Horiseon-Digital-Marketing-Solutions/blob/main/Horiseon%20Screenshot%20-%201.png)
+    ![Horiseon Website Screenshot]()
+    ![Horiseon Website Screenshot]()
 
 <h2>Installation</h2>
     <p>To install this website on your local machine, follow these steps:
