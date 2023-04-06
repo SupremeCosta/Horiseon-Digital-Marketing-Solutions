@@ -32,7 +32,7 @@
     </p>
 
 <h2>Visuals</h2>
-    ![Horiseon Website Nav & Banner](../Documents/Bootcamp/Week1/Challenge1-Horiseon/Week-1-Challenge-Horiseon/Horiseon Screenshot-1.png)
+    ![Horiseon Website Nav & Banner](Horiseon Screenshot - 1.png)
 
 <h2>Installation</h2>
     <p>To install this website on your local machine, follow these steps:
