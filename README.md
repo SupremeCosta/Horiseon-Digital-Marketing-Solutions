@@ -10,6 +10,9 @@
             Description
         </li>
         <li>
+            Visuals
+        </li>
+        <li>
             Installation
         </li>
         <li>
